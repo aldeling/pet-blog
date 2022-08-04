@@ -1,0 +1,33 @@
+body{
+  background-color: #fe5577d8;
+}
+h1{
+  color:maroon;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h2{
+  color:#c26174;
+}
+p{
+  color:#ba6e8e;
+}
+.column{
+  float: right;
+}
+.column2{
+  float: left;
+}
+.total-float{
+  border: 3px solid #fff
+  padding: 20px
+}
+.frame{
+  margin: 12px;
+  border: 2px solid goldenrod;
+  padding: 4px;
+  background-color: #FFFDD0
+}
+.highlight{
+  color:lavenderblush;
+}
